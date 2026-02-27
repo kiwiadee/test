@@ -1,4 +1,5 @@
 $Id$
 test file for git attributes "ident"
 test
+test
 $Id$
